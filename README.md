@@ -1,6 +1,3 @@
-
-
-
 ### Author
 Habib BALIT
 
@@ -20,4 +17,3 @@ source code : https://balithabib.github.io/dataviz/
     ?informaticien wdt:P27 ?pays_de_citoyennet_.
     ?informaticien wdt:P18 ?image.
     }
-    LIMIT 100
